@@ -1,6 +1,6 @@
 # usdtbot
 
-# 需要源码联系TG @sepiomg
+需要源码联系TG @sepiomg
 
 # 计算器功能
 # 1.呼出 菜单   
