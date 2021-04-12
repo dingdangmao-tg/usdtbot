@@ -1,6 +1,6 @@
 # usdtbot
 
-需要源码联系TG @sepiomg
+搭建简单，搭建全程几分钟，需要源码联系TG @sepiomg
 
 # 计算器功能
 # 1.呼出 菜单   
